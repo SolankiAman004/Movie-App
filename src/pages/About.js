@@ -2,7 +2,7 @@ import React from "react";
 
 export const About = () => {
   return (
-    <div className="min-h-screen p-8 bg-white text-gray-800 dark:bg-[#121212] dark:text-gray-200">
+    <div className="min-h-screen p-8 bg-white text-gray-800 dark:bg-gray-900 dark:text-gray-200">
       <div className="max-w-6xl mx-auto space-y-20">
 
         {/* HEADER SECTION */}
@@ -18,7 +18,7 @@ export const About = () => {
         {/* OUR MISSION */}
         <section className="p-10 rounded-xl shadow-md border 
           bg-gray-100 border-gray-200 
-          dark:bg-[#1c1c1c] dark:border-gray-700
+          dark:bg-gray-900 dark:border-gray-700
           transition-all duration-300 hover:scale-[1.01] animate-slideUp"
         >
           <h2 className="mb-4 text-3xl font-bold text-gray-900 dark:text-white">
@@ -50,7 +50,7 @@ export const About = () => {
               key={i}
               className="p-8 rounded-xl shadow-md border
               bg-gray-100 border-gray-200
-              dark:bg-[#1c1c1c] dark:border-gray-700
+              dark:bg-gray-900 dark:border-gray-700
               transition-all duration-300 hover:-translate-y-2 hover:shadow-lg"
             >
               <h3 className="mb-3 text-xl font-semibold text-gray-900 dark:text-white">
@@ -64,7 +64,7 @@ export const About = () => {
         {/* HISTORY SECTION */}
         <section className="p-10 rounded-xl shadow-md border 
           bg-gray-100 border-gray-200 
-          dark:bg-[#1c1c1c] dark:border-gray-700 
+          dark:bg-gray-900 dark:border-gray-700 
           animate-slideUpSlow"
         >
           <h2 className="mb-4 text-3xl font-bold text-gray-900 dark:text-white">
