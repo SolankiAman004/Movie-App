@@ -2,8 +2,8 @@
   "name": "cinemate",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://username.github.io/Movie_app",
-    "dependencies": {
+  "homepage": "https://solankiaman004.github.io/Movie-App",
+  "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
