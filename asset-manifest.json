@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Movie_app/static/css/main.2d996019.css",
+    "main.js": "/Movie_app/static/js/main.85730514.js",
+    "static/media/backup.png": "/Movie_app/static/media/backup.4618793166f39aa1ff3d.png",
+    "static/media/pagenotfound.png": "/Movie_app/static/media/pagenotfound.28f3aa27eae97df57582.png",
+    "index.html": "/Movie_app/index.html",
+    "main.2d996019.css.map": "/Movie_app/static/css/main.2d996019.css.map",
+    "main.85730514.js.map": "/Movie_app/static/js/main.85730514.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d996019.css",
+    "static/js/main.85730514.js"
+  ]
+}
